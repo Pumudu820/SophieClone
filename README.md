@@ -5,3 +5,5 @@
 
     
 Read [the wiki of running bot page](https://wiki.sophiebot.gq/en/dev/running)
+
+Reposity of [Sophie Telegram bot](https://gitlab.com/SophieBot/sophie/-/tree/stable)
